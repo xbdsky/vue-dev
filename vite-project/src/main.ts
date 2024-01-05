@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import './style.css'
+//import './style.css'
 import App from './App.vue'
 //映入arco-design-vue
 import ArcoVue from '@arco-design/web-vue';
